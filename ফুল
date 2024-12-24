@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="bn">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ফুলের ছবি</title>
+</head>
+<body>
+    <h1>এটি একটি ফুলের ছবি</h1>
+    <img src="https://example.com/flower.jpg" alt="ফুলের ছবি" width="500">
+</body>
+</html>
